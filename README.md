@@ -3,7 +3,7 @@
 # 👋 Xin chào, tôi là Phan Anh Tú!  
 ### 🚀 Software Engineer  
 
-## 📌 Giới thiệu  
+## 📌 About Me
 Xin chào! Tôi là một kỹ sư phần mềm với đam mê phát triển các hệ thống **AI, Chatbot, Kubernetes, DevOps và MLOps**. Tôi có kinh nghiệm làm việc với **NEXTJS, NESTJS, C#, PYTHON, Golang, Docker, Kubernetes, RabbitMQ, MinIO** và luôn thích khám phá các công nghệ mới.  
 
 - 🔭 Hiện tại tôi đang làm việc với **Kubernetes, Helm, và WebSocket**  
@@ -75,5 +75,3 @@ Xin chào! Tôi là một kỹ sư phần mềm với đam mê phát triển cá
 ⭐ **Cảm ơn bạn đã ghé thăm trang cá nhân của tôi! Hãy kết nối và cùng học hỏi nhé!** 🚀  
 
 ---
-
-Bạn thấy format này ổn chưa? Nếu cần chỉnh sửa hoặc bổ sung gì thêm thì cứ nói nhé! 😊
