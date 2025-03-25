@@ -52,8 +52,6 @@ Xin chào! Tôi là một kỹ sư phần mềm với đam mê phát triển cá
 ---
 
 
----
-
 ## 🤖 AI & Machine Learning  
 ![LLaMA](https://img.shields.io/badge/LLaMA-3776AB?style=for-the-badge&logo=llama&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
