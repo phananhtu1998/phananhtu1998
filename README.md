@@ -39,6 +39,7 @@ Xin chào! Tôi là một kỹ sư phần mềm với đam mê phát triển cá
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)  
+![WebSocket](https://img.shields.io/badge/WebSocket-0084FF?style=for-the-badge&logo=websocket&logoColor=white)  
 ---
 
 ## 🛢 Database & Storage  
