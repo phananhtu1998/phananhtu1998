@@ -68,7 +68,7 @@ Xin chào! Tôi là một kỹ sư phần mềm với đam mê phát triển cá
 ## 📫 **Liên hệ với tôi**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/phananhtu/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/phananhtu1998)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phananhtu@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phananhtu1998@gmail.com)  
 
 ⭐ **Cảm ơn bạn đã ghé thăm trang cá nhân của tôi! Hãy kết nối và cùng học hỏi nhé!** 🚀  
 
