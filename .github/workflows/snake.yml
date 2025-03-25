@@ -17,14 +17,8 @@ jobs:
         with:
           fetch-depth: 0  # Lấy toàn bộ lịch sử commit
 
-      - name: Kiểm tra và tạo branch output nếu chưa có
-        run: |
-          git fetch origin output || echo "Branch output chưa tồn tại"
-          git checkout output 2>/dev/null || git checkout -b output
-          git push origin output || echo "Branch output đã tồn tại"
-
       - name: Generate Snake Animation
-        uses: Platane/snk@v3.0.0  # Cập nhật phiên bản chính xác
+        uses: Platane/snk@v3.2.0  # Sử dụng phiên bản đã sửa lỗi `set-output`
         with:
           github_user_name: phananhtu1998
           outputs: |
