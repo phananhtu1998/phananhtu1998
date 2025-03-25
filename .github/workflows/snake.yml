@@ -9,14 +9,15 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository với lịch sử đầy đủ
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Lấy đầy đủ lịch sử commit để tránh lỗi branch
 
-      - name: Tạo branch output nếu chưa tồn tại
+      - name: Kiểm tra và tạo branch output nếu chưa có
         run: |
-          git fetch origin output || echo "Branch output chưa tồn tại, tạo mới..."
-          git checkout output 2>/dev/null || git checkout -b output
-          git push origin output || echo "Branch output đã có sẵn"
+          git branch --list output || git checkout -b output
+          git push origin output || echo "Branch output đã tồn tại"
 
       - name: Generate Snake Animation
         uses: Platane/snk@master
@@ -30,3 +31,4 @@ jobs:
         with:
           commit_message: "Update snake contribution graph"
           branch: output
+          push_options: --force
