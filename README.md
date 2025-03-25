@@ -1,5 +1,5 @@
 # 👋 Xin chào, tôi là Phan Anh Tú!  
-### 🚀 Software Engineer  
+### 👨‍💻 Software Engineer  
 
 🌱 **Lĩnh vực quan tâm**: AI, Chatbot, Kubernetes, DevOps
 
