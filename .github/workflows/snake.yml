@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Chạy hàng ngày vào 00:00 UTC
   workflow_dispatch:     # Cho phép chạy workflow thủ công
 
+permissions:
+  contents: write  # Cho phép push lên repository
+
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
@@ -12,23 +15,26 @@ jobs:
       - name: Checkout repository với lịch sử đầy đủ
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Lấy đầy đủ lịch sử commit để tránh lỗi branch
+          fetch-depth: 0  # Lấy toàn bộ lịch sử commit
 
       - name: Kiểm tra và tạo branch output nếu chưa có
         run: |
-          git branch --list output || git checkout -b output
+          git fetch origin output || echo "Branch output chưa tồn tại"
+          git checkout output 2>/dev/null || git checkout -b output
           git push origin output || echo "Branch output đã tồn tại"
 
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3.0.0  # Cập nhật phiên bản chính xác
         with:
           github_user_name: phananhtu1998
-          svg_out_path: github-contribution-grid-snake.svg
-          gif_out_path: github-contribution-grid-snake.gif
+          outputs: |
+            svg: ./github-contribution-grid-snake.svg
+            gif: ./github-contribution-grid-snake.gif
 
       - name: Commit và push thay đổi
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update snake contribution graph"
           branch: output
+          file_pattern: github-contribution-grid-snake.*
           push_options: --force
