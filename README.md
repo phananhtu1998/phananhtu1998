@@ -29,10 +29,12 @@
 </p>
 
 📊 **GitHub Statistics**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=phananhtu1998&show_icons=true&theme=radical" alt="GitHub Stats"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhtu1998&layout=compact&theme=radical" alt="Top Languages"> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phananhtu1998&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhtu1998&layout=compact&theme=radical&count_private=true" alt="Top Languages">
+</p>
 
-<div align="center">
-  
 ![snake gif](https://github.com/phananhtu1998/phananhtu1998/blob/output/github-snake-dark.svg)
 </div>
 
