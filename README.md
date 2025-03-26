@@ -1,13 +1,13 @@
-# 👋 Xin chào, tôi là Phan Anh Tú!  
+# 👋 Hello, I'm Phan Anh Tú!  
 ### 👨‍💻 Software Engineer  
 
-🌱 **Lĩnh vực quan tâm**: AI, Chatbot, Kubernetes, DevOps
+🌱 **Areas of Interest**: AI, Chatbots, Kubernetes, DevOps
 
-💡 **Kinh nghiệm**: NextJS, NestJS, C#, Python, Golang, PHP, Docker, Kubernetes, RabbitMQ, MinIO
+💡 **Experience**: NextJS, NestJS, C#, Python, Golang, PHP, Docker, Kubernetes, RabbitMQ, Kafka, MinIO
 
-🎯 **Định hướng**: Xây dựng hệ thống Microservices, AI-powered Chatbots, Distributed Systems
+🎯 **Goals**: Building Microservices, AI-powered Chatbots, Distributed Systems
 
-📜 **Ngôn ngữ lập trình**
+📜 **Programming Languages**
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></p>
 
 📦 **Frameworks**
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 
-📊 **Thống kê GitHub**
+📊 **GitHub Statistics**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=phananhtu1998&show_icons=true&theme=radical" alt="GitHub Stats"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhtu1998&layout=compact&theme=radical" alt="Top Languages"> </p>
 
 <div align="center">
@@ -36,6 +36,6 @@
 ![snake gif](https://github.com/phananhtu1998/phananhtu1998/blob/output/github-snake-dark.svg)
 </div>
 
-📫 **Liên hệ với tôi**
+📫 **Contact Me**
 <p align="center"><a href="https://github.com/phananhtu1998"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"> </a> <a href="mailto:phananhtu1998@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
-<p align="center"> ⭐ Cảm ơn bạn đã ghé thăm trang cá nhân của tôi! Hãy kết nối và cùng học hỏi nhé! 🚀</p>
+<p align="center"> ⭐ Thank you for visiting my profile! Let's connect and learn together! 🚀</p>
