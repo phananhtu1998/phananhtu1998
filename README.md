@@ -22,6 +22,12 @@
 🛢 **Database & Storage**
 <p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/MinIO-990000?style=for-the-badge&logo=minio&logoColor=white"> </p>
 
+☁️ **Cloud Platforms**
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
 📊 **Thống kê GitHub**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=phananhtu1998&show_icons=true&theme=radical" alt="GitHub Stats"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phananhtu1998&layout=compact&theme=radical" alt="Top Languages"> </p>
 
