@@ -62,6 +62,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/vLLM-5B2C6F?style=for-the-badge&logo=lightning&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/LM%20Studio-1F618D?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 📊 **GitHub Statistics**
