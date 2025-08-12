@@ -3,7 +3,7 @@
 
 🌱 **Areas of Interest**: Artificial Intelligence (AI), Software Development Engineer, DevOps
 
-💡 **Experience**: NextJS, NestJS, C#, Python, Golang, PHP, Docker, Kubernetes, RabbitMQ, Kafka, MinIO
+💡 **Experience**: NextJS, NestJS, C#, Python, Golang, PHP, Docker, Kubernetes, RabbitMQ, Kafka, MinIO,, Clouds (AWS, GOOGLE CLOUD)
 
 🎯 **Goals**: Building Microservices, AI-powered Chatbots, Distributed Systems
 
