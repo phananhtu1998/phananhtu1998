@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Phan Anh Tú!  
 ### 👨‍💻 Software Engineer  
 
-🌱 **Areas of Interest**: AI, Chatbots, Kubernetes, DevOps
+🌱 **Areas of Interest**: Artificial Intelligence (AI), Software Development Engineer, DevOps
 
 💡 **Experience**: NextJS, NestJS, C#, Python, Golang, PHP, Docker, Kubernetes, RabbitMQ, Kafka, MinIO
 
