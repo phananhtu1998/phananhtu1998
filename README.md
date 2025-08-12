@@ -60,6 +60,9 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
 📊 **GitHub Statistics**
 <p align="center">
